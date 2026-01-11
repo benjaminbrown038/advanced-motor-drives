@@ -1,1 +1,1 @@
-# Advanced-Motor-Drives
+# advanced-motor-drives
